@@ -1,0 +1,3 @@
+rootProject.name = 'books-finder'
+
+include('backend','frontend')
