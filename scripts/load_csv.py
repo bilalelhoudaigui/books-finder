@@ -6,9 +6,9 @@ def read_mapping():
     try:
         with open('books-mapping.json', 'r') as file:
             mapping = file.read().replace('\n', '')
+        return mapping
     except Exception as e:
         print(e)
-    return mapping
 
 
 es = Elasticsearch()
