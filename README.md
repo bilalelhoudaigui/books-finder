@@ -4,6 +4,7 @@ A simple search engine for books.
 
 ## Used Technologies
 
+* Java v8
 * Spring v5
 * Spring Boot v2.2.1
 * Angular v8.2.2
@@ -120,8 +121,18 @@ python load_csv.py
 
 ### Backend
 
-* [ ] ...
+* [ ] **TODO**: Add `api/v1/book-suggestion` endpoint.
+* [ ] **TODO**: Add Swagger.
+
+* [ ] **BUG**: Fix null values when calling `api/v1/book`.
+
+* [ ] **IDEA**: Add neo4j and sql bd.
+* [ ] **IDEA**: Add user profile (use Spring Security).
 
 ### Frontend
 
 * [ ] ...
+
+### IDEA
+
+* [ ] CRUD fav book of a user

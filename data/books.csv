@@ -1,4 +1,4 @@
-bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,ratings_count,text_reviews_count
+bookID,title,authors,average_rating,isbn,isbn13,language_code,num_of_pages,ratings_count,text_reviews_count
 1,Harry Potter and the Half-Blood Prince (Harry Potter  #6),J.K. Rowling-Mary GrandPré,4.56,0439785960,9780439785969,eng,652,1944099,26249
 2,Harry Potter and the Order of the Phoenix (Harry Potter  #5),J.K. Rowling-Mary GrandPré,4.49,0439358078,9780439358071,eng,870,1996446,27613
 3,Harry Potter and the Sorcerer's Stone (Harry Potter  #1),J.K. Rowling-Mary GrandPré,4.47,0439554934,9780439554930,eng,320,5629932,70390
